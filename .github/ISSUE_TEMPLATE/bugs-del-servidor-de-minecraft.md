@@ -1,7 +1,7 @@
 ---
 name: Bugs del servidor de minecraft
 about: Reporta aquí los bugs relacionados con el servidor de minecraft
-title: "[Minecraft Bug] **Pon aqui el titulo**"
+title: "[Minecraft Bug] **Pon aquí el titulo**"
 labels: Bug
 assignees: ''
 
