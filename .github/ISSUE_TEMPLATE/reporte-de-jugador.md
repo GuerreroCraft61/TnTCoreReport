@@ -2,8 +2,8 @@
 name: Reporte de jugador
 about: Uesa esto para reportar a jugadores de minecraft
 title: "[Reporte de jugador]"
-labels: ''
-assignees: ''
+labels: Reporte de jugador
+assignees: GuerreroCraft61
 
 ---
 
