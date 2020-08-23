@@ -1,7 +1,7 @@
 ---
 name: Sugerencias del servidor de minecraft
 about: Aquí puedes sugerir cosas para añadir al servidor de minecraft
-title: "[Minecraft Sugerencias] **Pon aquí el titulo**"
+title: "[Minecraft Sugerencias] Pon aquí el titulo"
 labels: Sugerencias
 assignees: ''
 
